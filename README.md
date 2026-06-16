@@ -72,22 +72,6 @@ Total simulations deposited in this repository:
 │
 └── README.md
 ```
-
----
-
-## Analyses
-
-The analyses performed in this study include:
-
-- Principal component analysis (PCA)
-- Conformational ensemble characterization
-- Inter-residue distance distributions
-- Dynamic cross-correlation analysis
-- DNA-binding interface dynamics
-- Free-energy landscape reconstruction
-- Network and allosteric communication analyses
-- Structural and dynamical comparison between reduced and oxidized states
-
 ---
 
 ## Key Biological Question
