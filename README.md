@@ -99,11 +99,13 @@ Internal dynamics drives functional diversification of a transcriptional repress
 
 ## Correspondence
 
-**Daiana A. Capdevila**  
+**Daiana A. Capdevila**
+dcapdevila@leloir.org.ar
 Fundación Instituto Leloir / IIBBA-CONICET  
 Buenos Aires, Argentina
 
 **Ari Zeida**  
+azeida@fmed.edu.uy
 Universidad de la República / CEINBIO  
 Montevideo, Uruguay
 
