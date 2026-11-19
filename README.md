@@ -74,14 +74,6 @@ Total simulations deposited in this repository:
 ```
 ---
 
-## Key Biological Question
-
-This work addresses how evolutionary diversification of allosteric regulation can arise through modifications in internal protein dynamics while preserving the overall structural architecture of the protein family.
-
-The simulations reveal that changes in conformational fluctuations and dynamic couplings can reshape functional responses without requiring major conformational transitions, supporting a dynamics-driven mechanism of allosteric evolution.
-
----
-
 ## Citation
 
 If you use these data, please cite:
