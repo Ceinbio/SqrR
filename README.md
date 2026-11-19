@@ -8,7 +8,7 @@ This repository contains the molecular dynamics (MD) trajectories, analysis scri
 
 Allosteric regulation is commonly associated with structural rearrangements linking effector-binding and functional sites. However, increasing evidence suggests that changes in protein dynamics can also mediate allosteric regulation in the absence of large conformational transitions.
 
-In this study, we investigated the molecular mechanisms underlying allosteric regulation in members of a transcriptional repressor superfamily that display distinct functional responses despite maintaining highly similar three-dimensional structures. Using extensive accelerated molecular dynamics (aMD) simulations, we characterized how redox-dependent changes in conformational dynamics modulate DNA binding and allosteric communication.
+In this study, we investigated the molecular mechanisms underlying allosteric regulation in members of a transcriptional repressor superfamily that display distinct functional responses despite maintaining highly similar three-dimensional structures. Using Gaussian accelerated molecular dynamics (GaMD) simulations, we characterized how redox-dependent changes in conformational dynamics modulate DNA binding and allosteric communication.
 
 The repository contains the simulation trajectories and analysis workflows used to characterize the dynamical landscapes of the different allosteric states.
 
